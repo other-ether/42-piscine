@@ -1,9 +1,9 @@
-Coding bootcamp in C: exercises and projects done
-Bootcamp: 42, Shell & C on Linux Ubuntu, SG, 2026 May 25 ~ 2026 June 19
+Coding bootcamp in C: exercises and projects done  
+Bootcamp: 42, Shell & C on Linux Ubuntu, SG, 2026 May 25 ~ 2026 June 19  
 
-The first commit reflects the mostly-faithful state of projects and files at the end of the piscine. There might be tiny discrepancies due to minor edits made after module validation, the staggered process of moving code from the 42 terminal onto my personal laptop via Slack, and other logistical processes. 
+The first commit reflects the mostly-faithful state of projects and files at the end of the piscine. There might be tiny discrepancies due to minor edits made after module validation, the staggered process of moving code from the 42 terminal onto my personal laptop via Slack, and other logistical processes.  
 
-Future releases and commits reflect a post-piscine effort to finish and/or refine exercises.
+Future releases and commits reflect a post-piscine effort to finish and/or refine exercises.  
 
 ### Scores for Piscine Modules
 
