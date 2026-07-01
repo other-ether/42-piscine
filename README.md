@@ -1,5 +1,5 @@
 ### Coding bootcamp in C: exercises and projects done  
-Bootcamp: École 42 (SG); Shell & C on Linux Ubuntu; 2026-May-25 ~ 2026-June-19  
+Bootcamp: École 42 (SG); shell & C on Linux Ubuntu; 2026-May-25 ~ 2026-June-19  
 
 The first commit reflects the mostly-faithful state of projects and files at the end of the piscine. There might be tiny discrepancies due to minor edits made after module validation, the staggered process of moving code from the 42 terminal onto my personal laptop via Slack, and other logistical processes.  
 
