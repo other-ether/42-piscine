@@ -5,23 +5,26 @@ The first commit reflects the mostly-faithful state of projects and files at the
 
 Future releases and commits reflect a post-piscine effort to finish and/or refine exercises.
 
-SCORES FOR PISCINE MODULES
-shell00  :  50
-shell01  :  55
-c00      :  50
-c01      : 100
-c02      :  75
-c03      : 100
-c04      :  75
-c05      :  80
-c06      : 100
-c07      :  60
-c08      : 100
-rush00   : 100
-rush01   :  95
-rush02   :   0
-BSQ      : 100
-exam00   :  40
-exam01   :  60
-exam02   :  90
-finalexam:  72
+### Scores for Piscine Modules
+
+| Module | Score | Status |
+| :--- | :---: | :---: |
+| **shell00** | 50 | 🟢 Pass |
+| **shell01** | 55 | 🟢 Pass |
+| **c00** | 50 | 🟢 Pass |
+| **c01** | 100 | 🏆 Perfect |
+| **c02** | 75 | 🟢 Pass |
+| **c03** | 100 | 🏆 Perfect |
+| **c04** | 75 | 🟢 Pass |
+| **c05** | 80 | 🟢 Pass |
+| **c06** | 100 | 🏆 Perfect |
+| **c07** | 60 | 🟢 Pass |
+| **c08** | 100 | 🏆 Perfect |
+| **rush00** | 100 | 🏆 Perfect |
+| **rush01** | 95 | 🟢 Pass |
+| **rush02** | 0 | 🔴 Fail |
+| **BSQ** | 100 | 🏆 Perfect |
+| **exam00** | 40 | 🟢 Pass |
+| **exam01** | 60 | 🟢 Pass |
+| **exam02** | 90 | 🟢 Pass |
+| **finalexam** | 72 | 🟢 Pass |
