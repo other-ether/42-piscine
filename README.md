@@ -7,24 +7,41 @@ Future releases and commits reflect a post-piscine effort to finish and/or refin
 
 ### Scores for Piscine Modules
 
+#### Shell
+
 | Module | Score | Status |
 | :--- | :---: | :---: |
-| **shell00** | 50 | 🟢 Pass |
-| **shell01** | 55 | 🟢 Pass |
-| **c00** | 50 | 🟢 Pass |
-| **c01** | 100 | 🏆 Perfect |
-| **c02** | 75 | 🟢 Pass |
-| **c03** | 100 | 🏆 Perfect |
-| **c04** | 75 | 🟢 Pass |
-| **c05** | 80 | 🟢 Pass |
-| **c06** | 100 | 🏆 Perfect |
-| **c07** | 60 | 🟢 Pass |
-| **c08** | 100 | 🏆 Perfect |
-| **rush00** | 100 | 🏆 Perfect |
-| **rush01** | 95 | 🟢 Pass |
-| **rush02** | 0 | 🔴 Fail |
-| **BSQ** | 100 | 🏆 Perfect |
-| **exam00** | 40 | 🟢 Pass |
-| **exam01** | 60 | 🟢 Pass |
-| **exam02** | 90 | 🟢 Pass |
-| **finalexam** | 72 | 🟢 Pass |
+| shell00 | 50 | 🟢 Pass |
+| shell01 | 55 | 🟢 Pass |
+
+#### C Programming
+
+| Module | Score | Status |
+| :--- | :---: | :---: |
+| c00 | 50 | 🟢 Pass |
+| c01 | 100 | 🏆 Perfect |
+| c02 | 75 | 🟢 Pass |
+| c03 | 100 | 🏆 Perfect |
+| c04 | 75 | 🟢 Pass |
+| c05 | 80 | 🟢 Pass |
+| c06 | 100 | 🏆 Perfect |
+| c07 | 60 | 🟢 Pass |
+| c08 | 100 | 🏆 Perfect |
+
+#### Group Projects
+
+| Module | Score | Status |
+| :--- | :---: | :---: |
+| rush00 | 100 | 🏆 Perfect |
+| rush01 | 95 | 🟢 Pass |
+| rush02 | 0 | 🔴 Fail |
+| BSQ | 100 | 🏆 Perfect |
+
+#### Exams
+
+| Module | Score | Status |
+| :--- | :---: | :---: |
+| exam00 | 40 | 🟢 Pass |
+| exam01 | 60 | 🟢 Pass |
+| exam02 | 90 | 🟢 Pass |
+| finalexam | 72 | 🟢 Pass |
